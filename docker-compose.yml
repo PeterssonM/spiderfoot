@@ -29,5 +29,5 @@ volumes:
 
 networks:
   default:
-    name: internal_default
+    name: manor_default
     external: true
